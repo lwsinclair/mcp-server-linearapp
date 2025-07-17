@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/magarcia-mcp-server-linearapp-badge.png)](https://mseep.ai/app/magarcia-mcp-server-linearapp)
+
 # Linear MCP Server
 
 [![npm version](https://img.shields.io/npm/v/mcp-server-linearapp.svg)](https://www.npmjs.com/package/mcp-server-linearapp) [![smithery badge](https://smithery.ai/badge/mcp-server-linearapp)](https://smithery.ai/server/mcp-server-linearapp)
